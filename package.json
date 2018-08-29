@@ -1,0 +1,19 @@
+{
+  "name": "disco_back",
+  "version": "1.0.0",
+  "description": "disco_backend",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voidpixel/disco_back.git"
+  },
+  "author": "pagoru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/voidpixel/disco_back/issues"
+  },
+  "homepage": "https://github.com/voidpixel/disco_back#readme"
+}
